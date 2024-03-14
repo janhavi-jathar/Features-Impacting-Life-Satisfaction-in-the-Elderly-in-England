@@ -1,1 +1,1 @@
-# Features-Impacting-Life-Satisfaction-in-the-Elderly-in-England
+This project involved working on the ELSA dataset containing information about people in economic, social, psychological, biological, cognitive and health domains. It carried out analysis on which of the factors - Age, loneliness, self-rated health, financial limitations affect Life satisfaction in people. The analysis was conducted by implementing descriptive and inferential statistics, hypothesis testing and Logistic Regression using IBM SPSS software.
